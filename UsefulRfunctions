@@ -1,0 +1,23 @@
+level
+mean
+subset
+colSums
+rowSums
+rowMeans
+colMeans
+cbind
+rbind
+summary 
+str
+hist 
+nchar 
+#number of characters
+strsplit() 
+sd() 
+#standard deviation 
+help()
+args() 
+#learn about the arguments of a function 
+abs()  
+#absolute deviation 
+ls()
